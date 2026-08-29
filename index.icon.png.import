@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dibvuelwfpb61"
-path="res://.godot/imported/cropped-SchoolHeld.png-ba8f5a28c8d7cf63930a2cae90b2e366.ctex"
+uid="uid://sx3a0gfrua8k"
+path="res://.godot/imported/index.icon.png-a422476832579ce6f0dd13e07414f5aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://export/de taal piloot/cropped-SchoolHeld.png"
-dest_files=["res://.godot/imported/cropped-SchoolHeld.png-ba8f5a28c8d7cf63930a2cae90b2e366.ctex"]
+source_file="res://export/de taal piloot/index.icon.png"
+dest_files=["res://.godot/imported/index.icon.png-a422476832579ce6f0dd13e07414f5aa.ctex"]
 
 [params]
 
